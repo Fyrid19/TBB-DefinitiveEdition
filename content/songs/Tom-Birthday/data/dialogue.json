@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "hey thanks for coming to my birthday party!!!!!!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "theres like no one here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "fuck you"
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "spob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*vine boom*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "lets sing right fucking now"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

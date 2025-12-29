@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				107
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-111
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				261,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-71
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "slide",
+			"indices": [],
+			"name": "slide0"
+		},
+		{
+			"offsets": [
+				9,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "slideEnd",
+			"indices": [],
+			"name": "slide end"
+		},
+		{
+			"offsets": [
+				-31,
+				-46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-slide",
+			"loop": false,
+			"name": "slide0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aftermath/fred",
+	"position": [
+		210,
+		30
+	],
+	"healthicon": "fred",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		-50,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

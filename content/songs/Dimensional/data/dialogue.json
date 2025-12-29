@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bro what the FUCK"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "we've already been over this"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "no cursing on my BIRTHDAY"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dude where the hell are we what the fuck"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "you're in MY world now...... AHAHAHAHAHAHAHAHAHAHAAISUDHAIUSDHSA IM FUCKING DYING"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im going to hurt you"
+		}
+	]
+}

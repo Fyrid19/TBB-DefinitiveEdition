@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "medic_idle"
+		},
+		{
+			"offsets": [
+				-12,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "medic_up"
+		},
+		{
+			"offsets": [
+				51,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "medic_down"
+		},
+		{
+			"offsets": [
+				180,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "medic_left"
+		},
+		{
+			"offsets": [
+				-35,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "medic_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extra/medic",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "medic",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

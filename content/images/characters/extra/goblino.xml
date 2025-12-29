@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goblino.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="coin0000" x="0" y="4020" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0001" x="4020" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0002" x="1608" y="4020" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0003" x="4824" y="3216" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0004" x="1608" y="3216" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0005" x="4020" y="1608" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0006" x="2412" y="1608" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0007" x="4020" y="3216" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0008" x="3216" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0009" x="0" y="3216" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0010" x="3216" y="4020" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="coin0011" x="3216" y="4020" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="down0000" x="804" y="4020" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="down0001" x="4824" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="down0002" x="3216" y="3216" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="idle0000" x="1608" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="idle0001" x="3216" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="idle0002" x="4824" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="idle0003" x="804" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="l0000" x="1608" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="l0001" x="3216" y="1608" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="l0002" x="2412" y="4020" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0000" x="4020" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0001" x="2412" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0002" x="3216" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0003" x="1608" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0004" x="4824" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0005" x="4824" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0006" x="4824" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0007" x="4824" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0008" x="4824" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0009" x="4824" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0010" x="4824" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="pcoin0011" x="4824" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="r0000" x="1608" y="1608" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="r0001" x="4020" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="r0002" x="2412" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="scr0000" x="4824" y="1608" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="scr0001" x="804" y="3216" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0000" x="4020" y="4020" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0001" x="2412" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0002" x="2412" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0003" x="2412" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0004" x="2412" y="3216" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0005" x="0" y="1608" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0006" x="0" y="0" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0007" x="0" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0008" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0009" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0010" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0011" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0012" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0013" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0014" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0015" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0016" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="gulp0017" x="804" y="2412" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="u0000" x="0" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="u0001" x="804" y="804" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="u0002" x="804" y="1608" width="804" height="804" frameX="2" frameY="2" frameWidth="800" frameHeight="800"/>
+</TextureAtlas>

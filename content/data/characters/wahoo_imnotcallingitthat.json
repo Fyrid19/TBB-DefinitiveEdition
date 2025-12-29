@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-230
+			],
+			"anim": "death",
+			"fps": 24,
+			"name": "death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"anim": "lol",
+			"fps": 24,
+			"name": "lol",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				30,
+				-230
+			],
+			"indices": [
+				2,
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "idle-death",
+			"loop": true,
+			"name": "death"
+		},
+		{
+			"offsets": [
+				37,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/takeover/wahoo_imnotcallingitthat",
+	"position": [
+		90,
+		240
+	],
+	"healthicon": "wahoo-bars",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		255,
+		80
+	],
+	"camera_position": [
+		-40,
+		100
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}

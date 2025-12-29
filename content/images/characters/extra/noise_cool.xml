@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="noise_cool.png">
+<SubTexture name="noise_cool idle0000" x="452" y="0" width="102" height="84" frameX="-64" frameY="-145" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool idle0001" x="356" y="196" width="95" height="89" frameX="-68" frameY="-140" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool idle0002" x="89" y="209" width="89" height="98" frameX="-70" frameY="-131" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool idle0003" x="89" y="209" width="89" height="98" frameX="-70" frameY="-131" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool left0000" x="178" y="209" width="104" height="98" frameX="-52" frameY="-131" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool left0001" x="356" y="0" width="96" height="98" frameX="-60" frameY="-131" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool left0002" x="356" y="98" width="93" height="98" frameX="-63" frameY="-131" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool down0000" x="133" y="444" width="146" height="62" frameX="-43" frameY="-167" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool down0001" x="0" y="444" width="133" height="75" frameX="-52" frameY="-154" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool down0002" x="324" y="346" width="95" height="87" frameX="-74" frameY="-142" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool up0000" x="0" y="209" width="89" height="137" frameX="-70" frameY="-92" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool up0001" x="267" y="0" width="89" height="157" frameX="-70" frameY="-72" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool up0002" x="178" y="0" width="89" height="187" frameX="-70" frameY="-42" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool up0003" x="89" y="0" width="89" height="200" frameX="-70" frameY="-29" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool up0004" x="0" y="0" width="89" height="209" frameX="-70" frameY="-20" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool right0000" x="0" y="346" width="115" height="98" frameX="-69" frameY="-131" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool right0001" x="115" y="346" width="106" height="98" frameX="-69" frameY="-131" frameWidth="200" frameHeight="200" />
+<SubTexture name="noise_cool right0002" x="221" y="346" width="103" height="98" frameX="-70" frameY="-131" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

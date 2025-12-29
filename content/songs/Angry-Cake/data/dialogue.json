@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "why the fuck would you say that"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "say what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "you said fuck on my BIRTHDAY"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "and"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "now im angry now grrrrrrr"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		}
+	]
+}

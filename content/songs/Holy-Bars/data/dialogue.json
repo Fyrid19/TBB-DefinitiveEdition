@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "GRRRRRRR IM SO MAD HOW DARE YOU BEAT ME A SECOND TIME GRRRRRRRRR"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jesus",
+			"boxState": "normal",
+			"expression": "black",
+			"text": "you are not the only one who's angry my child"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "what",
+			"text": "who the fuck was that"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jesus",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "it is i, jesus christ"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah man im gettin the fuck outta here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-player",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "what the fuck are you doing here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jesus",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "everyone always forgets that its MY birthday, too"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jesus",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "and YOU always get more attention than ME"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "youre literally jesus though"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jesus",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "shut up"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jesus",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "since im angry we GOTTA have a rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-player",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "kill"
+		}
+	]
+}

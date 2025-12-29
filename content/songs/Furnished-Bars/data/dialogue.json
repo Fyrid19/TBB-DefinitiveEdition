@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "confident",
+			"text": "ok yknow what that was actually kinda\\nawesome"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you seriously pulling a whole 180 on this right now"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "do you like"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "want me to be mad????"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "maybe"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "bruh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "confident",
+			"text": "whatever lets go again!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

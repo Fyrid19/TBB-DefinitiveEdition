@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				69
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mario-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mario-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				221
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mario-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mario-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "sonic-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-40
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "sonic-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				90
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "sonic-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "sonic-right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aftermath/mns",
+	"position": [
+		75,
+		242
+	],
+	"healthicon": "mario-sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		41,
+		201
+	],
+	"camera_position": [
+		-240,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

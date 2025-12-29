@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				137,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gun",
+			"indices": [],
+			"name": "gun"
+		},
+		{
+			"offsets": [
+				89,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bomb",
+			"indices": [],
+			"name": "bomb"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				7
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				9
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downMiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/classic-funny/tommy-gun",
+	"position": [
+		110,
+		200
+	],
+	"healthicon": "wahoo-gay",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		255,
+		80
+	],
+	"camera_position": [
+		-160,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

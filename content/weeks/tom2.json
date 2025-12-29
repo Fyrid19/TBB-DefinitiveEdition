@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Tom Bash",
+			"wahoo",
+			[
+				124,
+				255,
+				80
+			]
+		],
+		[
+			"Dimensional",
+			"wahoo-3d",
+			[
+				44,
+				175,
+				0
+			]
+		],
+		[
+			"Throw Down",
+			"wahoo-jod",
+			[
+				0,
+				115,
+				0
+			]
+		],
+		[
+			"Post Storm",
+			"wahoo-sorry",
+			[
+				124,
+				255,
+				80
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tomny",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Tom's Tip Toppin' Wednesday",
+	"weekName": "Tom Week 2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

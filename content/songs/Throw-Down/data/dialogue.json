@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "that is IT that is IT im going to KILLED YOU"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nuh uh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "YOU SUCK"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "AND YOU'RE NEVER INVITED TO MY BIRTHDAY PARTIES EVER AGAIN"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "honestly i dont care i dont even know why i came to this one"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "AND YOU'RE NOT GETTING ANY CAKE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ah hell nah im gonna kill you"
+		}
+	]
+}

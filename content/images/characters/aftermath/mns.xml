@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mns.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="3" y="3" width="411" height="366" frameX="0" frameY="-40" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0001" x="419" y="3" width="412" height="364" frameX="0" frameY="-42" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0002" x="836" y="3" width="412" height="362" frameX="0" frameY="-44" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0003" x="1253" y="3" width="411" height="370" frameX="0" frameY="-35" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0004" x="1669" y="3" width="409" height="380" frameX="-1" frameY="-26" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0005" x="2083" y="3" width="407" height="388" frameX="-2" frameY="-17" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0006" x="2495" y="3" width="405" height="397" frameX="-3" frameY="-9" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0007" x="2905" y="3" width="404" height="405" frameX="-3" frameY="0" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0008" x="2905" y="3" width="404" height="405" frameX="-3" frameY="0" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="idle0009" x="2905" y="3" width="404" height="405" frameX="-3" frameY="0" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="mario-down0000" x="3314" y="3" width="503" height="380" frameX="0" frameY="-36" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0001" x="3" y="413" width="502" height="391" frameX="0" frameY="-26" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0002" x="510" y="413" width="500" height="402" frameX="0" frameY="-17" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0003" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0004" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0005" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0006" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0007" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0008" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0009" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0010" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0011" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-down0012" x="1015" y="413" width="499" height="421" frameX="0" frameY="0" frameWidth="503" frameHeight="421"/>
+	<SubTexture name="mario-left0000" x="1519" y="413" width="443" height="457" frameX="0" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0001" x="1967" y="413" width="439" height="457" frameX="-4" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0002" x="2411" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0003" x="2853" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0004" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0005" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0006" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0007" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0008" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0009" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0010" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0011" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-left0012" x="3295" y="413" width="437" height="457" frameX="-7" frameY="0" frameWidth="444" frameHeight="457"/>
+	<SubTexture name="mario-right0000" x="3" y="875" width="453" height="372" frameX="-4" frameY="0" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0001" x="461" y="875" width="462" height="371" frameX="-2" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0002" x="928" y="875" width="457" height="371" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0003" x="1390" y="875" width="450" height="372" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0004" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0005" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0006" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0007" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0008" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0009" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0010" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0011" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-right0012" x="1845" y="875" width="443" height="374" frameX="0" frameY="-1" frameWidth="464" frameHeight="375"/>
+	<SubTexture name="mario-up0000" x="2293" y="875" width="483" height="430" frameX="0" frameY="-80" frameWidth="483" frameHeight="520"/>
+	<SubTexture name="mario-up0001" x="2781" y="875" width="483" height="482" frameX="0" frameY="-33" frameWidth="483" frameHeight="520"/>
+	<SubTexture name="mario-up0002" x="3269" y="875" width="483" height="502" frameX="0" frameY="-18" frameWidth="483" frameHeight="520"/>
+	<SubTexture name="mario-up0003" x="3" y="1382" width="483" height="517" frameX="0" frameY="-3" frameWidth="483" frameHeight="520"/>
+	<SubTexture name="mario-up0004" x="491" y="1382" width="483" height="518" frameX="0" frameY="-2" frameWidth="483" frameHeight="520"/>
+	<SubTexture name="mario-up0005" x="979" y="1382" width="483" height="520"/>
+	<SubTexture name="mario-up0006" x="979" y="1382" width="483" height="520"/>
+	<SubTexture name="mario-up0007" x="979" y="1382" width="483" height="520"/>
+	<SubTexture name="mario-up0008" x="979" y="1382" width="483" height="520"/>
+	<SubTexture name="mario-up0009" x="979" y="1382" width="483" height="520"/>
+	<SubTexture name="mario-up0010" x="979" y="1382" width="483" height="520"/>
+	<SubTexture name="mario-up0011" x="979" y="1382" width="483" height="520"/>
+	<SubTexture name="mario-up0012" x="979" y="1382" width="483" height="520"/>
+	<SubTexture name="sonic-down0000" x="1467" y="1382" width="509" height="401" frameX="0" frameY="0" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0001" x="1981" y="1382" width="505" height="401" frameX="-4" frameY="-5" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0002" x="2491" y="1382" width="500" height="401" frameX="-9" frameY="-9" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0003" x="2491" y="1382" width="500" height="401" frameX="-10" frameY="-10" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0004" x="2996" y="1382" width="499" height="401" frameX="-10" frameY="-10" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0005" x="2996" y="1382" width="499" height="401" frameX="-11" frameY="-11" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0006" x="2996" y="1382" width="499" height="401" frameX="-11" frameY="-11" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0007" x="2996" y="1382" width="499" height="401" frameX="-11" frameY="-11" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0008" x="2996" y="1382" width="499" height="401" frameX="-11" frameY="-11" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0009" x="2996" y="1382" width="499" height="401" frameX="-11" frameY="-11" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0010" x="2996" y="1382" width="499" height="401" frameX="-11" frameY="-11" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0011" x="2996" y="1382" width="499" height="401" frameX="-11" frameY="-11" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-down0012" x="2996" y="1382" width="499" height="401" frameX="-11" frameY="-11" frameWidth="509" frameHeight="412"/>
+	<SubTexture name="sonic-left0000" x="3500" y="1382" width="493" height="403" frameX="-10" frameY="-9" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0001" x="3" y="1907" width="501" height="409" frameX="-5" frameY="-5" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0002" x="509" y="1907" width="510" height="416"/>
+	<SubTexture name="sonic-left0003" x="1024" y="1907" width="506" height="413" frameX="-4" frameY="-3" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0004" x="1535" y="1907" width="503" height="409" frameX="-7" frameY="-7" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0005" x="2043" y="1907" width="499" height="406" frameX="-11" frameY="-10" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0006" x="2547" y="1907" width="496" height="403" frameX="-14" frameY="-13" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0007" x="2547" y="1907" width="496" height="403" frameX="-14" frameY="-13" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0008" x="2547" y="1907" width="496" height="403" frameX="-14" frameY="-13" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0009" x="2547" y="1907" width="496" height="403" frameX="-14" frameY="-13" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0010" x="2547" y="1907" width="496" height="403" frameX="-14" frameY="-13" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0011" x="2547" y="1907" width="496" height="403" frameX="-14" frameY="-13" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-left0012" x="2547" y="1907" width="496" height="403" frameX="-14" frameY="-13" frameWidth="510" frameHeight="416"/>
+	<SubTexture name="sonic-right0000" x="3048" y="1907" width="384" height="389" frameX="0" frameY="-1" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0001" x="3437" y="1907" width="381" height="389" frameX="0" frameY="-1" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0002" x="3" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0003" x="385" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0004" x="767" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0005" x="1149" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0006" x="1149" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0007" x="1149" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0008" x="1149" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0009" x="1149" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0010" x="1149" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0011" x="1149" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-right0012" x="1149" y="2328" width="377" height="390" frameX="0" frameY="0" frameWidth="384" frameHeight="390"/>
+	<SubTexture name="sonic-up0000" x="1531" y="2328" width="332" height="453" frameX="-2" frameY="0" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0001" x="1868" y="2328" width="332" height="449" frameX="-2" frameY="-4" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0002" x="2205" y="2328" width="333" height="445" frameX="-1" frameY="-8" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0003" x="2543" y="2328" width="333" height="441" frameX="-1" frameY="-12" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0004" x="2881" y="2328" width="333" height="437" frameX="-1" frameY="-16" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0005" x="3219" y="2328" width="334" height="432" frameX="0" frameY="-21" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0006" x="3219" y="2328" width="334" height="432" frameX="0" frameY="-21" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0007" x="3219" y="2328" width="334" height="432" frameX="0" frameY="-21" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0008" x="3219" y="2328" width="334" height="432" frameX="0" frameY="-21" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0009" x="3219" y="2328" width="334" height="432" frameX="0" frameY="-21" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0010" x="3219" y="2328" width="334" height="432" frameX="0" frameY="-21" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0011" x="3219" y="2328" width="334" height="432" frameX="0" frameY="-21" frameWidth="334" frameHeight="453"/>
+	<SubTexture name="sonic-up0012" x="3219" y="2328" width="334" height="432" frameX="0" frameY="-21" frameWidth="334" frameHeight="453"/>
+</TextureAtlas>

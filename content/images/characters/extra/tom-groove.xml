@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tom-groove.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down0000" x="2892" y="713" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="down0001" x="2892" y="2139" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="hey0000" x="3856" y="713" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="hey0001" x="0" y="2149" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="idle0000" x="2892" y="0" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="idle0001" x="2892" y="1426" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="idle0002" x="964" y="2862" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="idle0003" x="1928" y="2149" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="left0000" x="964" y="1436" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="left0001" x="1928" y="1436" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="miss0000" x="1928" y="2862" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="miss0001" x="3856" y="0" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="right0000" x="0" y="2862" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="right0001" x="3856" y="1426" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="up0000" x="964" y="2149" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="up0001" x="1928" y="718" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="die0000" x="2892" y="2862" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="die0001" x="0" y="1436" width="964" height="713" frameX="2" frameY="2" frameWidth="960" frameHeight="709"/>
+	<SubTexture name="die0002" x="964" y="0" width="964" height="718" frameX="2" frameY="2" frameWidth="960" frameHeight="714"/>
+	<SubTexture name="die0003" x="0" y="718" width="964" height="718" frameX="2" frameY="2" frameWidth="960" frameHeight="714"/>
+	<SubTexture name="die0004" x="0" y="718" width="964" height="718" frameX="2" frameY="2" frameWidth="960" frameHeight="714"/>
+	<SubTexture name="dieloop0000" x="964" y="718" width="964" height="718" frameX="2" frameY="2" frameWidth="960" frameHeight="714"/>
+	<SubTexture name="dieloop0001" x="1928" y="0" width="964" height="718" frameX="2" frameY="2" frameWidth="960" frameHeight="714"/>
+	<SubTexture name="dieloop0002" x="0" y="0" width="964" height="718" frameX="2" frameY="2" frameWidth="960" frameHeight="714"/>
+	<SubTexture name="dieloop0003" x="0" y="718" width="964" height="718" frameX="2" frameY="2" frameWidth="960" frameHeight="714"/>
+</TextureAtlas>

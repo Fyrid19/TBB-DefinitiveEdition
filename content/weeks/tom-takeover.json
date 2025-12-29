@@ -1,0 +1,59 @@
+{
+	"storyName": "takeover",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "takeover",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"House Arrest",
+			"wahoo-arrest",
+			[
+				124,
+				255,
+				80
+			]
+		],
+		[
+			"Furnished Bars",
+			"wahoo-bars",
+			[
+				124,
+				255,
+				80
+			]
+		],
+		[
+			"Iodized",
+			"wahoo-mad",
+			[
+				44,
+				175,
+				0
+			]
+		],
+		[
+			"Artificial",
+			"wahoo-fucked",
+			[
+				0,
+				95,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Takeover Week"
+}

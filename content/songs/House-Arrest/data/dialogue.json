@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "what the fuck are you doing in my house"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "gf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he made me come here"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep blobbity boopy bippy blablorbity-"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "shut up"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone-mad",
+			"text": "also seriously WHAT ARE YOU DOING HERE GET OUT"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you tweeted and said you could totally beat me in a rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that pissed me off so i broke into your house"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone-mad",
+			"text": "yeah well have fun RAP BATTLING THE FUCKING POLICE YOU ASSHATS"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone-mad",
+			"text": "you literally committed a crime"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but it was for a rap battle!!!!!1!!!1!!11!!1!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "and?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle now or ill amogus"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone-fuck",
+			"text": "HOLY SHIT DUDE YOU DONT HAVE TO TAKE IT THAT FAR"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone-fuck",
+			"text": "THATS LIKE ACTUALLY TERRORISM"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "holy crap fine"
+		}
+	]
+}

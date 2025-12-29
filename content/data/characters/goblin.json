@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "coin"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "pcoin",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "gulp",
+			"fps": 12,
+			"name": "gulp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "scream",
+			"fps": 12,
+			"name": "scr",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "idle-scream",
+			"fps": 12,
+			"name": "scr",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-gulp",
+			"indices": [
+				16,
+				17
+			],
+			"name": "gulp"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/extra/goblino",
+	"position": [
+		-240,
+		-130
+	],
+	"healthicon": "goblin",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		136,
+		59
+	],
+	"camera_position": [
+		60,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

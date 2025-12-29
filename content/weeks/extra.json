@@ -1,0 +1,158 @@
+{
+	"storyName": "extra",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Wahoo Birthday",
+			"wahoo-funny",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Classic Funny",
+			"mario",
+			[
+				255,
+				40,
+				40
+			]
+		],
+		[
+			"Mrey Crimas",
+			"tree",
+			[
+				0,
+				215,
+				155
+			]
+		],
+		[
+			"Wario Goes to California",
+			"wario",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Toms Awesome Day Out",
+			"tom-heat",
+			[
+				124,
+				255,
+				100
+			]
+		],
+		[
+			"toms awesome day outathon",
+			"tom-heat",
+			[
+				124,
+				255,
+				100
+			]
+		],
+		[
+			"Half Off",
+			"halfhoo",
+			[
+				44,
+				175,
+				0
+			]
+		],
+		[
+			"Pure Evil",
+			"evil-wahoo",
+			[
+				131,
+				0,
+				175
+			]
+		],
+		[
+			"Billy",
+			"wahoo-aftermath",
+			[
+				124,
+				255,
+				100
+			]
+		],
+		[
+			"Halloween",
+			"wahoo-halloween",
+			[
+				235,
+				175,
+				0
+			]
+		],
+		[
+			"Ms'in",
+			"ms-bitch",
+			[
+				84,
+				255,
+				60
+			]
+		],
+		[
+			"Braddwave",
+			"bradd",
+			[
+				60,
+				100,
+				220
+			]
+		],
+		[
+			"Whoppa",
+			"whoppa",
+			[
+				60,
+				40,
+				0
+			]
+		],
+		[
+			"Noise Update",
+			"cool_noise",
+			[
+				255,
+				253,
+				100
+			]
+		],
+		[
+			"Tomtastic",
+			"wahoo-bars",
+			[
+				124,
+				255,
+				100
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "thanks for showing up everybody!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "especially you two!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why did you invite us again?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "honestly idk i just felt like rap battling again lol"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		}
+	]
+}

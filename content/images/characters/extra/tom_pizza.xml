@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tom_pizza.png">
+<SubTexture name="tom_pizza idle0000" x="301" y="107" width="83" height="99" frameX="-43" frameY="-50" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza idle0001" x="0" y="224" width="83" height="99" frameX="-43" frameY="-50" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza idle0002" x="83" y="224" width="83" height="99" frameX="-43" frameY="-50" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza right0000" x="166" y="224" width="101" height="99" frameX="-27" frameY="-50" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza right0001" x="267" y="224" width="99" height="99" frameX="-29" frameY="-50" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza right0002" x="402" y="0" width="99" height="99" frameX="-29" frameY="-50" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza up0000" x="0" y="0" width="84" height="116" frameX="-40" frameY="-33" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza up0001" x="216" y="0" width="85" height="108" frameX="-40" frameY="-41" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza up0002" x="102" y="116" width="85" height="107" frameX="-40" frameY="-42" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza down0000" x="290" y="323" width="90" height="66" frameX="-34" frameY="-83" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza down0001" x="402" y="198" width="90" height="72" frameX="-34" frameY="-77" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza down0002" x="200" y="323" width="90" height="72" frameX="-34" frameY="-77" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza left0000" x="0" y="116" width="102" height="108" frameX="-22" frameY="-41" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza left0001" x="187" y="116" width="100" height="107" frameX="-25" frameY="-42" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza left0002" x="301" y="0" width="101" height="107" frameX="-27" frameY="-42" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza hey0000" x="0" y="323" width="100" height="98" frameX="-49" frameY="-28" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza hey0001" x="100" y="323" width="100" height="98" frameX="-49" frameY="-28" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza death0000" x="84" y="0" width="132" height="110" frameX="-19" frameY="-40" frameWidth="120" frameHeight="130" />
+<SubTexture name="tom_pizza youjustpostedcringebrowtfbro0000" x="402" y="99" width="83" height="99" frameX="-43" frameY="-50" frameWidth="120" frameHeight="130" />
+</TextureAtlas>

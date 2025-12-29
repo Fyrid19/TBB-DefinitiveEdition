@@ -1,0 +1,50 @@
+{
+	"storyName": "happy birthday :3",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "tommy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Tom Birthday",
+			"wahoo",
+			[
+				124,
+				255,
+				80
+			]
+		],
+		[
+			"Angry Cake",
+			"wahoo-angry",
+			[
+				44,
+				175,
+				0
+			]
+		],
+		[
+			"Holy Bars",
+			"jesus",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "tom week"
+}

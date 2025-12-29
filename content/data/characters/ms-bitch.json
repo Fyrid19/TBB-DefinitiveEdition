@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				82
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				246
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fuck",
+			"loop": false,
+			"name": "FUCK"
+		},
+		{
+			"offsets": [
+				40,
+				246
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "FUCK"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/extra/ms-bitch",
+	"position": [
+		110,
+		410
+	],
+	"healthicon": "ms-bitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		159,
+		234,
+		75
+	],
+	"camera_position": [
+		-210,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

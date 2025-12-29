@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				178,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bro",
+			"indices": [],
+			"name": "bro"
+		},
+		{
+			"offsets": [
+				170,
+				218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ghostIdle",
+			"indices": [],
+			"name": "ghostIdle"
+		},
+		{
+			"offsets": [
+				170,
+				218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "ghostIdle"
+		},
+		{
+			"offsets": [
+				170,
+				199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ghostLeft"
+		},
+		{
+			"offsets": [
+				170,
+				219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ghostRight"
+		},
+		{
+			"offsets": [
+				170,
+				265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ghostUp"
+		},
+		{
+			"offsets": [
+				170,
+				195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ghostDown"
+		},
+		{
+			"offsets": [
+				170,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ascend",
+			"indices": [],
+			"name": "ghostAscend"
+		},
+		{
+			"offsets": [
+				170,
+				218
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-ghost",
+			"loop": false,
+			"name": "ghostIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				27,
+				27
+			],
+			"fps": 24,
+			"anim": "idle-gone",
+			"loop": false,
+			"name": "ghostAscend"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aftermath/british-tom",
+	"position": [
+		110,
+		150
+	],
+	"healthicon": "british-tom",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		255,
+		106
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

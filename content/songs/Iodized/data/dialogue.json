@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "ok you're pissing me off now"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh my god not this shit"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "im gonna KILL you and then KILL you again and then KILL YOU SEVEN TIMES OVER"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "this next song is gonna be CLOROX\\nDIFFICULTY"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what the hell does that even mean"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tom-takeover",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "it means youre gonna wanna drink clorox after this"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-takeover",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		}
+	]
+}

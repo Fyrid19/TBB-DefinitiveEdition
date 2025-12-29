@@ -1,0 +1,41 @@
+{
+	"storyName": "aftermath",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "aftermath",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Aftermath",
+			"wahoo-aftermath",
+			[
+				124,
+				255,
+				80
+			]
+		],
+		[
+			"AftermathOG",
+			"wahoo-aftermath",
+			[
+				124,
+				255,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "The Aftermath"
+}

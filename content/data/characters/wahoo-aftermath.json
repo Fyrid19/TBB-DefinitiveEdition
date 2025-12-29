@@ -1,0 +1,202 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "frustrated",
+			"indices": [],
+			"name": "frustrated"
+		},
+		{
+			"offsets": [
+				150,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "getOut",
+			"indices": [],
+			"name": "getOut"
+		},
+		{
+			"offsets": [
+				170,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pushed",
+			"indices": [],
+			"name": "pushed"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				0
+			],
+			"anim": "what",
+			"fps": 24,
+			"name": "what0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-bruh",
+			"loop": false,
+			"name": "bruh"
+		},
+		{
+			"offsets": [
+				31,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-what",
+			"loop": true,
+			"name": "whatBlink"
+		},
+		{
+			"offsets": [
+				34,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-god",
+			"loop": true,
+			"name": "ohMyGod"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-sigh",
+			"loop": false,
+			"name": "sigh"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-pissy",
+			"loop": false,
+			"name": "pissy"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bump",
+			"loop": false,
+			"name": "bump"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "idle-bump",
+			"loop": true,
+			"name": "bump"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aftermath/wahoo-aftermath",
+	"position": [
+		90,
+		240
+	],
+	"healthicon": "wahoo-aftermath",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		255,
+		80
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

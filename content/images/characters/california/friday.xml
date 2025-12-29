@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="friday.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle0001" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle0002" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle0003" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle0004" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle0005" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="shoot0000" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="shoot0001" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="shoot0002" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="shoot0003" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="shoot0004" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="shoot0005" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="shoot0006" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="shoot0007" x="2000" y="0" width="1000" height="1000"/>
+</TextureAtlas>
