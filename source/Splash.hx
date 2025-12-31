@@ -80,7 +80,7 @@ class Splash extends FlxState
 				switch (step++)
 				{
 					case 0:
-						FlxG.sound.volume = 1;
+						// FlxG.sound.volume = 1; // i do not know why this is still here it kinda like makes the saved volume redundant
 						FlxG.sound.play(Paths.sound('intro'));
 						logo.visible = true;
 						logo.scale.set(0.2, 1.25);
